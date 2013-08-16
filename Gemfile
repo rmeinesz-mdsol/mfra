@@ -29,7 +29,9 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'therubyracer'
 
-gem "unicorn-rails"
+gem 'unicorn-rails'
+
+gem 'nginx'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
